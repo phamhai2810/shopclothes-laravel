@@ -10,7 +10,7 @@ Bước 4: Mở file shopbanhang trong giao diện code (mình xài visual studi
 
 Bước 5: Truy cập vào 'http://localhost/phpmyadmin/' và import file database 'shop_phamhai'.
 
-Bước 6: Tại giao diện code của file shopbanhang, mở terminal và chạy câu lệnh 'php artisan serve' và 'php artisan storage:link'.
+Bước 6: Tại giao diện code của file shopbanhang, mở terminal và chạy câu lệnh 'php artisan storage:link' và 'php artisan serve'.
 
 Bước 7: Truy cập 'http://127.0.0.1:8000/' để chạy website.
 
